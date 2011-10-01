@@ -1,0 +1,2 @@
+serviceClass: com.wennoddle.client.GreetingService
+path: 144040F38098411026690580D3AC1AFC.gwt.rpc
